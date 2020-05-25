@@ -1,4 +1,4 @@
-# **_Hello and welcome to my guide!_**
+# **_Hello and welcome to my guide! o >o/'_**
 
 Here you can build a stable foundation to your windows system, many users who may just start up windows and use windows update to keep everything in check can miss out on important resources for stability.
 This guide will be focused on Windows 10 OS, it’s possible to follow this guide using similar settings on other versions of windows.
