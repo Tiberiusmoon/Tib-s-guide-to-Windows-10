@@ -3,7 +3,7 @@
 Here you can build a stable foundation to your windows system, many users who may just start up windows and use windows update to keep everything in check can miss out on important resources for stability.
 This guide will be focused on Windows 10 OS, it’s possible to follow this guide using similar settings on other versions of windows.
 
-1.Drivers and BIOS 
+*#1.Drivers and BIOS* 
 Myth  BIOS's are difficult and complicated to update.
 That maybe true for very old PC setups but today's Motherboards are very user friendly.
 Guides to updating your bios can be found in the user manual of your motherboard, if you have lost or thrown away your manual you can get a digital copy from the manufacturer website.
@@ -38,7 +38,7 @@ Now you have updated the Core drivers to your windows system.
 If you have a device connected to your motherboard like sound cards, network cards, usb devices etc.
 You can check your up to date with drivers for those devices by finding the manufacturer and model of the device and searching for their website like you did with the motherboard/laptop.
 
-2.Software and OS update
+*#2.Software and OS update*
 Updates are important to system stability and security to ongoing and new games.
 
 Windows Update:
@@ -56,7 +56,7 @@ Software:
 Software updates are handled in many ways and they vary between program developers.
 Unless there is a section you can click to check for updates simply re-downloading the software and installing it can do the same thing as an update, in some cases the installer of the software will tell you if you have the most current version of that software.
 
-3.Anti-Virus Check-up
+*#3.Anti-Virus Check-up*
 A common cause for errors is related to a virus infection on your system.
 Performing a full system scan is highly recommended.
 For the love of all that is roley poley please only install one antivirus on your system!
@@ -70,7 +70,8 @@ Once done deal with any threats how you see fit.
 If you are having trouble with your anti-virus and you believe it to be compromised try this anti-root kit software:
 https://www.malwarebytes.com/antirootkit/
 You can choose to purchase 3rd party Antivirus but please do your research into it as the best AV software may change to something else the next year!
-4.Command your Firewall
+
+*#4.Command your Firewall*
 Windows firewall is one of the main barriers to your system.
 Sometimes it can also block programs that you want to have access to the network, like your games.
 
@@ -81,7 +82,7 @@ Click change settings and scroll through the list, if a game is not on the list 
 Click browse and navigate to your game file location, select the launcher .exe file and click open.
 Then tick both boxes, do this for any games you wish to add to the list then press ok.
 
-5.Cleaning up
+*#5.Cleaning up*
 Cleaning your PC is ideal to reduce old conflicting files and save you much needed space.
 
 Disk clean:
