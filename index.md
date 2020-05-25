@@ -86,7 +86,7 @@ Then tick both boxes, do this for any games you wish to add to the list then pre
 Cleaning your PC is ideal to reduce old conflicting files and save you much needed space.
 
 **_Disk clean:_**
-Press the Win key and type thisPC and press enter. (or Mycomputer for other windows systems)
+Press the Win key and type this PC and press enter. (or Mycomputer for other windows systems)
 Right click your C drive and click properties.
 Click disk clean-up and look at the list of areas to clean in the center window.
 Tick what you want to clean or keep, once done click clean up system files.
@@ -101,9 +101,9 @@ Flushing the DNS:
 Hold down the Windows Key and press X.
 Click Command Prompt (Admin).
 When the command prompt opens,Type ipconfig /registerdns and press Enter.
-Type ipconfig /release and press Enter.
-Type ipconfig /renew and press Enter.
-Type netsh winsock reset and press Enter.
+Type ```ipconfig /release``` and press Enter.
+Type ```ipconfig /renew``` and press Enter.
+Type ```netsh winsock reset``` and press Enter.
 Reboot your computer.
 
 **_Windows Redistributable cleanup:_**
@@ -126,9 +126,9 @@ To reduce the space your OS is taking you can compress some of the files. (to se
 Note: Compression will add a small amount of CPU usage so you may reconsider if you own older or low core count CPUs.
 
 Open Command Prompt, right-click the result, and select Run as administrator.
-Then type Compact.exe /CompactOS:always and hit enter.
-Once done do the same for powercfg /h /type reduced.
-Then powercfg.exe /h off DO NOT use this command for laptops!
+Then type ```Compact.exe /CompactOS:always``` and hit enter.
+Once done do the same for ```powercfg /h /type reduced```
+Then ```powercfg.exe /h off``` DO NOT use this command for laptops!
 
 And that about wraps it up.
 If you take this guide to heart and use parts of the guide to maintain your system it can keep your system at peak health without the need to reinstall windows.
