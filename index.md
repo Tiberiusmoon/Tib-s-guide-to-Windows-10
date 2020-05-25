@@ -121,7 +121,7 @@ Ccleaner has been a great organiser with in build registry cleaner, uninstaller,
 [Ccleaner](https://www.ccleaner.com/ccleaner/download)
 
 **_Saving space:_**
-To reduce the space your OS is taking you can compress some of the files without hindering performance. (to see how much space you saved take note of how much space you are currently using then check after you have finished the guide.)
+To reduce the space your OS is taking you can compress some of the files. (to see how much space you saved take note of how much space you are currently using then check after you have finished the guide.)
 
 Note: Compression will add a small amount of CPU usage so you may reconsider if you own older or low core count CPUs.
 
