@@ -68,7 +68,7 @@ Click scan options and choose full scan and click scan now. (a full scan only ev
 Once done deal with any threats how you see fit.
 
 If you are having trouble with your anti-virus and you believe it to be compromised try this anti-root kit software:
-https://www.malwarebytes.com/antirootkit/
+[Malwarebytes Antirootkit](https://www.malwarebytes.com/antirootkit/)
 You can choose to purchase 3rd party Antivirus but please do your research into it as the best AV software may change to something else the next year!
 
 ## **4.Command your Firewall**
@@ -118,7 +118,7 @@ If a game fails to load, run a repair game or check game file integrity to reins
 **Further cleaning:**
 You can use alternative software to clean your system but it can be risky if you do not know what software to choose.
 Ccleaner has been a great organiser with in build registry cleaner, uninstaller, start-up programs and program file cleaner.
-https://www.ccleaner.com/ccleaner/download
+[Ccleaner](https://www.ccleaner.com/ccleaner/download)
 
 **Saving space:**
 To reduce the space your OS is taking you can compress some of the files without hindering performance. (to see how much space you saved take note of how much space you are currently using then check after you have finished the guide.)
