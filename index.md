@@ -3,11 +3,15 @@
 Here you can build a stable foundation to your windows system, many users who may just start up windows and use windows update to keep everything in check can miss out on important resources for stability.
 This guide will be focused on Windows 10 OS, it’s possible to follow this guide using similar settings on other versions of windows.
 
+
 ## **_1.Drivers and BIOS_** 
 -Myth  BIOS's are difficult and complicated to update.
+
 That maybe true for very old PC setups but today's Motherboards are very user friendly.
 Guides to updating your bios can be found in the user manual of your motherboard, if you have lost or thrown away your manual you can get a digital copy from the manufacturer website.
+
 ! BIOS updates may reset OC/profile when updating and may need to be re-done; you must NEVER turn off the power to the PC while the BIOS is updating.
+
 
 **_Identifying your hardware:_**
 
