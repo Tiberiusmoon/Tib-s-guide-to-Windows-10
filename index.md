@@ -28,9 +28,8 @@ Once you find the section with drivers and bios's download the latest driver for
 -There are many drivers to choose from, download the latest of each driver and ignore the duplicate/older drivers.  
 You can download a digital copy of your user manual in or around this section of the website.  
 
-**_The Install:_**  
+**_The Install:_**
 Bios: Follow your user manual and it will guide you through it.   
-
 Motherboard/laptop: Select a driver and install one by one, some drivers may require a restart so please reset your system then continue to the next driver.  
 Now you have updated the Core drivers to your windows system.  
 If you have a device connected to your motherboard like sound cards, network cards, usb devices etc.  
