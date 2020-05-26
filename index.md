@@ -4,10 +4,10 @@ Here you can build a stable foundation to your windows system, many users who ma
 This guide will be focused on Windows 10 OS, it’s possible to follow this guide using similar settings on other versions of windows.
 
 ## **_1.Drivers and BIOS_** 
-Myth  BIOS's are difficult and complicated to update.
+-Myth  BIOS's are difficult and complicated to update.
 That maybe true for very old PC setups but today's Motherboards are very user friendly.
 Guides to updating your bios can be found in the user manual of your motherboard, if you have lost or thrown away your manual you can get a digital copy from the manufacturer website.
-BIOS updates may reset OC/profile when updating and may need to be re-done; you must NEVER turn off the power to the PC while the BIOS is updating.
+! BIOS updates may reset OC/profile when updating and may need to be re-done; you must NEVER turn off the power to the PC while the BIOS is updating.
 
 **_Identifying your hardware:_**
 
@@ -24,7 +24,7 @@ Now open your web browser and search for your manufacturer, you can open the Msi
 Once you are in the manufacturer website navigate to the section that says service, support or downloads.
 When you're there you will be greeted with a search bar, here you put in your model number.
 Once you find the section with drivers and bios's download the latest driver for the correct windows version.
-There are many drivers to choose from, download the latest of each driver and ignore the duplicate/older drivers.
+-There are many drivers to choose from, download the latest of each driver and ignore the duplicate/older drivers.
 You can download a digital copy of your user manual in or around this section of the website.
 
 **_The Install:_**
@@ -44,7 +44,7 @@ Updates are important to system stability and security to ongoing and new games.
 **_Windows Update:_**
 Press the Win key, type update and press enter.
 Click check for updates and let windows update do its thing.
-Earlier versions of Windows 10 had a temperamental updater, close and reopen the updater and spam to check for updates a few times.
+-Earlier versions of Windows 10 had a temperamental updater, close and reopen the updater and spam to check for updates a few times.
 
 **_Windows Defender:_**
 Press the Win key, type Defender and press enter.
@@ -59,7 +59,7 @@ Unless there is a section you can click to check for updates simply re-downloadi
 ## **_3.Anti-Virus Check-up_**
 A common cause for errors is related to a virus infection on your system.
 Performing a full system scan is highly recommended.
-For the love of all that is roley poley please only install one antivirus on your system!
+-For the love of all that is roley poley please only install one antivirus on your system!
 Having more than one can do more harm than good.
 
 Press the Win key, type Defender and press enter.
@@ -132,3 +132,4 @@ Then ```powercfg.exe /h off``` DO NOT use this command for laptops!
 
 And that about wraps it up. o >o
 If you take this guide to heart and use parts of the guide to maintain your system it can keep your system at peak health without the need to reinstall windows.
+
