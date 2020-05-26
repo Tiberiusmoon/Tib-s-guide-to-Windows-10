@@ -103,15 +103,6 @@ Then go to the tools tab and click optimise.
 Select the drives you wish to defrag/optimise then click the optimise button.  
 This will take some time so let it run in the background while doing light tasks if your system has the power.  
 
-**_Windows Redistributable cleanup:_**
-(Only applies to Windows systems that have had a lot of programs installed and uninstalled over a period of time)  
-
-First open the programs you very often use all at once.  
-Then right click the windows icon and click Apps and features.  
-In the list of programs are a list Redistributable or distro's, un-install each one if they ask you to close a program you know the distro is needed and you can cancel the un-install.  
-Once done you can close the programs and go to your games.  
-If a game fails to load, run a repair game or check game file integrity to reinstall distro's the games need.  
-
 **_Further cleaning:_**
 You can use alternative software to clean your system but it can be risky if you do not know what software to choose.  
 Ccleaner has been a great organiser with in build registry cleaner, uninstaller, start-up programs and program file cleaner.  
