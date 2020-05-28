@@ -17,7 +17,7 @@ Guides to updating your bios can be found in the user manual of your motherboard
 **_Identifying your hardware:_**
 Press the Win key on your keyboard and type Msinfo and press enter.  
 Laptops:Under the item name System Model and System Manufacturer the value to the right will be the model and manufacturer of your laptop. (keep this window minimised to be used again)  
-Desktop:Under the item name BaseBoard Product, BaseBoard Manufacturer and revision number will be your model and manufacturer of your motherboard. (keep this window minimised to be used again)
+Desktop:Under the item name BaseBoard Product, BaseBoard Manufacturer and revision number will be your model and manufacturer of your motherboard; if you can't find the revision number check the box or the motherboard itself for something that looks like "Rev.1.0". (keep this window minimised to be used again)
 
 
 **_The download:_**
