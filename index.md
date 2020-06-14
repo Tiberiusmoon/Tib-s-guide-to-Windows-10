@@ -122,5 +122,5 @@ And that about wraps it up. o >o
 If you take this guide to heart and use parts of the guide to maintain your system it can keep your system at peak health without the need to reinstall windows.  
 
 Other useful guides:  
-[Antivirus Combat and Repair] (https://tiberiusmoon.github.io/Antivirus-Combat-and-Repair/)  
-[Tibs Guide to Troubleshooting] (https://tiberiusmoon.github.io/Tibs-Guide-to-Troubleshooting/)
+[Antivirus Combat and Repair](https://tiberiusmoon.github.io/Antivirus-Combat-and-Repair/)  
+[Tibs Guide to Troubleshooting](https://tiberiusmoon.github.io/Tibs-Guide-to-Troubleshooting/)
